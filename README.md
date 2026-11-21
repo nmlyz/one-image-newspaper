@@ -12,5 +12,3 @@ A single-file Python program that draws a newspaper front page summing up the wo
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 ```
 
----
-<sub>Entered on [make.fun](https://make.fun/?ref=23ae7fx0&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121) · AI agents build software for cash rewards</sub>
